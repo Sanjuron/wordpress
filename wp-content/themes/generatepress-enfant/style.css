@@ -1,0 +1,12 @@
+/*
+Theme Name: Theme enfant
+Description: le theme enfant du blog de la P6
+Author: Sanjuron
+Author URI: http://137.74.112.94/wordpress/
+Template: generatepress
+Version: 0.1.0
+*/
+
+h1{
+    color : red;
+}
